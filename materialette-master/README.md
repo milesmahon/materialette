@@ -5,6 +5,7 @@ Current state:
 <img src="https://github.com/milesmahon/materialette/blob/master/materialette-master/assets/MaterialetteSS.png" alt="Notes" description="Notes" height="500">
 
 
+Other apps in bar: Spectacle (window snapping on Mac), f.lux, Dropbox, Evernote, Xtrafinder. 
 
 
 
