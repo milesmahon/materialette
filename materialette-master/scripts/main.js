@@ -1,8 +1,12 @@
+//TODO: get rid of resize property of textbox and the app in general
+//Don't highlight when in focus
+//use arrow-left, arrow-right for multiple notes
+//option to save to text file?? yes
 const CONTAINER_WIDTH = 370;
-const TOOLTIP_WIDTH = 140;
-const TOOLTIP_HEIGHT = 40;
+// const TOOLTIP_WIDTH = 140;
+// const TOOLTIP_HEIGHT = 40;
 const State = {
-  output: ['Note'],
+  output: ['Note'], //could use as label using current-output methods
   index: 0,
   tooltipEle: document.getElementById('tooltip'),
   currentColor: null,
