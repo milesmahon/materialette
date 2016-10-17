@@ -2,7 +2,7 @@ Will be altering this a lot.
 
 Current state:
 
-<img src="https://github.com/milesmahon/materialette/blob/master/materialette-master/assets/MaterialleteSS.png" alt="Notes" description="Notes" height="500">
+<img src="https://github.com/milesmahon/materialette/blob/master/materialette-master/assets/MaterialetteSS.png" alt="Notes" description="Notes" height="500">
 
 
 
