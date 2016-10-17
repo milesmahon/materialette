@@ -1,8 +1,7 @@
 Will be altering this a lot. 
 
 Current state:
-<img src="https://github.com/milesmahon/materialette/materialette-master/assets/materialetteSS.png" alt="Notes" description="notes">
-
+<img src="https://github.com/milesmahon/materialette/blob/master/materialette-master/assets/MaterialleteSS.png" alt="Notes" description="Notes" height="500">
 
 
 
