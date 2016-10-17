@@ -1,4 +1,4 @@
-//TODO: get rid of resize property of textbox and the app in general
+//TODO: get rid of resize property of the app in general
 //Don't highlight when in focus
 //use arrow-left, arrow-right for multiple notes
 //option to save to text file?? yes
@@ -17,7 +17,7 @@ const State = {
 //// Populate color cells
 const container = document.getElementById('container');
 text = document.getElementById('textbox');
-text.value = "Hello";
+// text.value = "Hello";
 //for (let name in colors) {
 //  const row = document.createElement('section');
 //  row.className = 'row';
