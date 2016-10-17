@@ -1,3 +1,8 @@
+Will be altering this a lot. Original readme below (by mike-schultz):
+--
+
+
+
 <img src="https://mike-schultz.github.io/materialette/assets/banner.png" alt="materialette" description="Material design">
 <p align="center"> <img src="https://mike-schultz.github.io/materialette/assets/demo.gif" alt="materialette" description="Material design"></p>
 # Materialette
