@@ -1,4 +1,18 @@
-Will be altering this a lot. Original readme below (by mike-schultz):
+Will be altering this a lot. 
+
+Current state:
+<img src="https://github.com/milesmahon/materialette/assets/materialetteSS.png" alt="Notes" description="notes">
+
+
+
+
+
+
+
+
+
+
+Original readme below (by mike-schultz):
 --
 
 
